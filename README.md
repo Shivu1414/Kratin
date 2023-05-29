@@ -10,6 +10,6 @@ This Program i written in Java.<br>
 <br><br>
 <b>Program2 : HealthCareSystem_Program_in_Python</b><br>
 This Program i written in Python.<br>
- This program like a Alarm which will remind Sunita sharma when she need to drink water, medicines, and need to do exercizes.
+ This program like a Alarm which will remind Sunita sharma when she need to drink water, medicines, and need to do exersizes.
  <br><br>
  <b>PROGRAM2_OUTPUT :</b>
